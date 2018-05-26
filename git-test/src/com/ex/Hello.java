@@ -8,6 +8,7 @@ public class Hello {
 		System.out.println("commit1");
 		System.out.println("commit2");
 		System.out.println("develop");
+		System.out.println("develop2");
 	}
 
 }
